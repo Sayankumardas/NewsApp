@@ -1,0 +1,12 @@
+{
+	   "application_Name":"NewsApp",
+	   "framework" : "java",
+		  "frontend" : "react",
+    "employee_Name":"Sayan Kumar Das",
+    "employee_ID": 2000078287,
+    "employee_Email":"2000078287@hexaware.com" ,
+	"repository_URL":"https://git-codecommit.us-east-1.amazonaws.com/v1/repos/NewsApp-61372248",
+	"repository_Username":"2000078287",
+	"repository_Password":"Tsr@2000078287%%",
+	"start_Date":"24-May-23"
+}
